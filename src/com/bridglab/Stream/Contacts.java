@@ -1,6 +1,7 @@
 package com.bridglab.Stream;
+
 class Contacts {
-	private String firstName, lastName, address, city, state, email;
+    private String firstName, lastName, address, city, state, email;
     private long zip;
     private long phoneNumber;
 
