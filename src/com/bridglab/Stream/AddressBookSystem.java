@@ -101,8 +101,8 @@ public class AddressBookSystem {
         We are just calling an object using class name.
         Simply passing the argument value according to the parameter defined in the constructor.
 		 */
-		Contact details = new Contact("Ashish", "Sahu", "BBSR, Bolangir", "Odisha",
-				"Odisha", "abc@gmail.com", 764349, 7922493164L);
+		Contact details = new Contact("Pooja", "Ing", "hubli" "kar",
+				"kar", "abc@gmail.com", 764349, 7922493164L);
 		System.out.println("The following contact details is mentioned below : \n");
 		System.out.println("First Name : " + details.getFirstName());
 		System.out.println("Last Name  : " + details.getLastName());
